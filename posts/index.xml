@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://Zebg1Z.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2019 19:59:16 +0800</lastBuildDate>
+    
+	<atom:link href="https://Zebg1Z.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://Zebg1Z.github.io/posts/first/</link>
+      <pubDate>Mon, 25 Nov 2019 19:59:16 +0800</pubDate>
+      
+      <guid>https://Zebg1Z.github.io/posts/first/</guid>
+      <description>测试-blog2 my blog two</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://Zebg1Z.github.io/posts/hello/</link>
+      <pubDate>Mon, 25 Nov 2019 19:48:25 +0800</pubDate>
+      
+      <guid>https://Zebg1Z.github.io/posts/hello/</guid>
+      <description>这是 Hugo 的第一篇文章。</description>
+    </item>
+    
+  </channel>
+</rss>
