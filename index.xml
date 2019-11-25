@@ -5,11 +5,21 @@
     <link>https://Zebg1Z.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2019 19:59:16 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 25 Nov 2019 20:29:13 +0800</lastBuildDate>
     
 	<atom:link href="https://Zebg1Z.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Three</title>
+      <link>https://Zebg1Z.github.io/posts/three/</link>
+      <pubDate>Mon, 25 Nov 2019 20:29:13 +0800</pubDate>
+      
+      <guid>https://Zebg1Z.github.io/posts/three/</guid>
+      <description>这是 Hugo 的第3篇文章。
+这是 Hugo 的第3篇文章。 这是 Hugo 的第3篇文章。 这是 Hugo 的第3篇文章。 这是 Hugo 的第3篇文章。 这是 Hugo 的第3篇文章。 这是 Hugo 的第3篇文章。 这是 Hugo 的第3篇文章。 这是 Hugo 的第3篇文章。 这是 Hugo 的第3篇文章。 这是 Hugo 的第3篇文章。 这是 Hugo 的第3篇文章。 这是 Hugo 的第3篇文章。 这是 Hugo 的第3篇文章。 这是 Hugo 的第3篇文章。 这是 Hugo 的第3篇文章。</description>
+    </item>
     
     <item>
       <title>First</title>
